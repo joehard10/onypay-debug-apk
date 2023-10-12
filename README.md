@@ -8,7 +8,7 @@ L'APK de test est inclu dans le présent repository à des fins de tests.
 
 ## Comment Installer l'APK
 Pour installer l'APK sur votre appareil Android, suivez ces étapes :
-1. Téléchargez l'APK en via le présent repository.
+1. Téléchargez l'APK  via le lien suivant: https://github.com/joehard10/onypay-debug-apk/raw/main/Onypay.apk.
 2. Sur votre appareil Android, accédez aux "Paramètres" > "Sécurité".
 3. Activez l'option "Sources inconnues" pour autoriser l'installation d'applications à partir de sources autres que le Play Store.
 4. Ouvrez l'explorateur de fichiers sur votre appareil Android et recherchez l'emplacement où vous avez téléchargé l'APK.
